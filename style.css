@@ -6,3 +6,9 @@ height: 200px;
 body{
     background-color: rgba(226, 83, 155, 0.329);
 }
+
+.principal{
+    width: 510px; 
+    height: 450px;
+
+}
