@@ -9,6 +9,6 @@ body{
 
 .principal{
     width: 510px; 
-    height: 450px;
+    height: inherit;
 
 }
