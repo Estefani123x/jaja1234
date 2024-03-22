@@ -1,6 +1,6 @@
 .imagem{
 width: 450px; 
-height: 450px;
+height: inherit;
 }
 
 body{
